@@ -1,2 +1,2 @@
-# Projeto-de-Prototipa-o-Figma-
-Projeto final de Prototipação pelo figma em grupo.
+# Projeto-de-Protipa-o-Figma-
+Projeto final de Protipação pelo figma em grupo.
